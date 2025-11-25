@@ -124,7 +124,18 @@ Mobile app development
 
 🔗 LinkedIn: https://www.linkedin.com/in/joel-george-37a090330
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vx-tech-2024&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vx-tech-2024&layout=compact&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Vx-tech-2024" /> </p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vx-tech-2024&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vx-tech-2024&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
-⭐ If you like my projects, consider following or starring a repo!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+Always+Building;VX-Tech-Insp" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vx-tech-2024" />
+</p>
+
+⭐ **If you like my projects, consider following or starring a repo!**
