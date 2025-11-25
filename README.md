@@ -89,3 +89,12 @@ Multi-slide digital signage with:
 ---
 
 ⭐ **If you like my projects, consider following or starring a repo!**  
+
+## 📊 GitHub Stats
+
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vx-tech-2024&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vx-tech-2024&layout=compact&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1AF&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+learning+and+building)](https://git.io/typing-svg)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Vx-tech-2024)
+
