@@ -1,11 +1,14 @@
 ## 👋 Hi, I'm Joel Birundu George
 
 🎯 Full-Stack Developer | JavaScript Ecosystem | Cloud & API Enthusiast
+
 💡 Passionate about building modern systems, clean UIs, and scalable backends.
+
 🔥 Currently sharpening frontend skills with ALX ProDev, backend next.
 
-🚀 Tech Stack
-🧩 Languages
+---
+## 🚀 Tech Stack
+ ## 🧩 Languages
 <p> <img src="https://skillicons.dev/icons?i=js,ts,python,php" height="50" /> </p>
 
 JavaScript (ES6+)
@@ -18,7 +21,7 @@ SQL
 
 PHP (Basic)
 
-🎨 Frontend
+## 🎨 Frontend
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux" height="50" /> </p>
 
 React.js
@@ -31,7 +34,7 @@ Redux Toolkit
 
 Vite
 
-🏗️ Backend
+## 🏗️ Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" /> </p>
 
 Node.js
@@ -42,7 +45,7 @@ REST API Development
 
 Postman Certified
 
-🛠️ Tools & DevOps
+## 🛠️ Tools & DevOps
 <p> <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,linux" height="50" /> </p>
 
 Git & GitHub (SSH)
@@ -55,8 +58,10 @@ Linux
 
 Cisco Networking Certified
 
-📌 Featured Projects
-🏠 ReHome Matt – Second-hand Market
+---
+## 📌 Featured Projects
+
+## 🏠 ReHome Matt – Second-hand Market
 
 🔥 Frontend-only marketplace with:
 
@@ -74,7 +79,7 @@ Modern responsive UI
 
 🔗 Repo: https://github.com/Vx-tech-2024/rehome-matt
 
-🖥️ NLS Tech Office Display System (Onsite Work)
+## 🖥️ NLS Tech Office Display System (Onsite Work)
 
 Multi-slide digital signage system with:
 
@@ -90,7 +95,14 @@ Built with React + Tailwind
 
 🔒 Private repository
 
-🎓 Certifications
+---
+## 🎓 Certifications
+<p>
+  <img alt="Terraform" src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" width="40" height="40"/>
+  <img alt="APIGEE" src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" width="40" height="40"/>
+  <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img alt="Cisco" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40" height="40"/>
+</p>
 
 🟦 Terraform on Azure – Saurabh Dhingra
 
@@ -106,7 +118,10 @@ Built with React + Tailwind
 
 ☁️ Cloud Practitioner Essentials
 
-📈 What I'm Learning Now
+
+---
+
+## 📈 What I'm Learning Now
 
 Advanced TypeScript
 
@@ -118,11 +133,17 @@ System Development using JavaScript
 
 Mobile app development
 
-📫 Connect With Me
+---
 
-📧 Email: joelgeorge6505@gmail.com
+## 📫 Connect with me
+<p align="center" >
+  <a href="mailto:joelgeorge6505@gmail.com"><img src="https://img.shields.io/badge/Email-joelgeorge6505@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/joel-george-37a090330"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Vx-tech-2024"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+</p>
 
-🔗 LinkedIn: https://www.linkedin.com/in/joel-george-37a090330
+---
+
 
 ## 📊 GitHub Stats
 <p align="center">
