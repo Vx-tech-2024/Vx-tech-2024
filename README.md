@@ -1,16 +1,91 @@
-## Hi there 👋
+# 👋 Hi, I'm Joel Birundu George
 
-<!--
-**Vx-tech-2024/Vx-tech-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Full-Stack Developer (JavaScript, React, Next.js, Node.js)**  
+💡 Passionate about building modern systems, clean UIs, and scalable applications.  
+🔥 Currently polishing frontend skills with **ALX ProDev**, and leveling up backend next.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+### **Languages**
+- JavaScript (ES6+)
+- TypeScript (Intermediate)
+- Python  
+- SQL  
+- PHP (Basic)
+
+### **Frontend**
+- React.js  
+- Next.js  
+- Tailwind CSS  
+- Vite  
+- Redux Toolkit  
+
+### **Backend**
+- Node.js  
+- Express.js  
+- API Development (REST & Postman Certified)
+- SQL
+
+### **Tools & DevOps**
+- Git & GitHub (SSH)  
+- Docker (Basic)
+- Terraform (Azure Certified)
+- Cisco Networking Certified  
+
+---
+
+## 📌 Featured Projects
+
+### 🏠 **ReHome Matt – Second-hand Market**  
+Frontend-Only marketplace with:  
+- Google Login with Firebase  
+- LocalStorage item persistence  
+- Image uploads  
+- Listing deletion  
+- Responsive UI  
+
+🔗 *Repo*: https://vx-tech-2024.github.io/rehome-matt/
+
+---
+
+### 🖥️ **NLS Tech Office Display System** (Work Project)
+Multi-slide digital signage with:  
+- Employee of the Month  
+- Special Dates (Birthdays + Anniversaries)  
+- Tech Tip Thursday (JS-based dynamic content)  
+- Game Tournaments & Leaderboards  
+- Fully React + Tailwind
+
+🔗 *Repo*: private 
+
+---
+
+## 📜 Certifications
+- Terraform on Microsoft Azure – Saurabh Dhingra  
+- APIGEE for Beginners – Google Cloud  
+- Postman API Fundamentals Student Expert  
+- Cisco Networking Essentials
+- Cloud Computing Fundamentals
+- Journey To Cloud
+- Cloud Practioner Essentials
+
+---
+
+## 📈 What I'm Learning Now
+- Advanced TypeScript  
+- Full React system architecture  
+- Building production-grade Next.js applications  
+- System Development using JavaScript  
+- Mobile app development 
+
+---
+
+## 📫 Let's Connect
+📧 Email: **joelgeorge6505@gmail.com**  
+💼 LinkedIn: www.linkedin.com/in/joel-george-37a090330
+
+
+---
+
+⭐ **If you like my projects, consider following or starring a repo!**  
