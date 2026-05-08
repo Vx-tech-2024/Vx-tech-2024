@@ -1,14 +1,14 @@
-## 👋 Hi, I'm Joel Birundu George
+##  Hi, I'm Joel Birundu George
 
-🎯 Full-Stack Developer | JavaScript Ecosystem | Cloud & API Enthusiast
+ Full-Stack Developer | JavaScript Ecosystem | Cloud & API Enthusiast
 
-💡 Passionate about building modern systems, clean UIs, and scalable backends.
+ Passionate about building modern systems, clean UIs, and scalable backends.
 
-🔥 Currently sharpening frontend skills with ALX ProDev, backend next.
+ Currently sharpening frontend skills with ALX ProDev, backend next.
 
 ---
-## 🚀 Tech Stack
- ## 🧩 Languages
+##  Tech Stack
+ ##  Languages
 <p> <img src="https://skillicons.dev/icons?i=js,ts,python,php" height="50" /> </p>
 
 JavaScript (ES6+)
@@ -21,7 +21,7 @@ SQL
 
 PHP (Basic)
 
-## 🎨 Frontend
+##  Frontend
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux" height="50" /> </p>
 
 React.js
@@ -34,7 +34,7 @@ Redux Toolkit
 
 Vite
 
-## 🏗️ Backend
+##  Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" /> </p>
 
 Node.js
@@ -45,7 +45,7 @@ REST API Development
 
 Postman Certified
 
-## 🛠️ Tools & DevOps
+##  Tools & DevOps
 <p> <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,linux" height="50" /> </p>
 
 Git & GitHub (SSH)
@@ -59,11 +59,11 @@ Linux
 Cisco Networking Certified
 
 ---
-## 📌 Featured Projects
+##  Featured Projects
 
-## 🏠 ReHome Matt – Second-hand Market
+##  ReHome Matt – Second-hand Market
 
-🔥 Frontend-only marketplace with:
+ Frontend-only marketplace with:
 
 Google Login (Firebase)
 
@@ -75,11 +75,11 @@ Listing deletion
 
 Modern responsive UI
 
-🔗 Live Demo: https://vx-tech-2024.github.io/rehome-matt/
+ Live Demo: https://vx-tech-2024.github.io/rehome-matt/
 
-🔗 Repo: https://github.com/Vx-tech-2024/rehome-matt
+ Repo: https://github.com/Vx-tech-2024/rehome-matt
 
-## 🖥️ NLS Tech Office Display System (Onsite Work)
+##  NLS Tech Office Display System (Onsite Work)
 
 Multi-slide digital signage system with:
 
@@ -93,10 +93,10 @@ Game Tournaments + Leaderboards
 
 Built with React + Tailwind
 
-🔒 Private repository
+ Private repository
 
 ---
-## 🎓 Certifications
+##  Certifications
 <p>
   <img alt="Terraform" src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" width="40" height="40"/>
   <img alt="APIGEE" src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" width="40" height="40"/>
@@ -104,24 +104,24 @@ Built with React + Tailwind
   <img alt="Cisco" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40" height="40"/>
 </p>
 
-🟦 Terraform on Azure – Saurabh Dhingra
+ Terraform on Azure – Saurabh Dhingra
 
-🟧 APIGEE for Beginners – Google Cloud
+ APIGEE for Beginners – Google Cloud
 
-🟨 Postman API Fundamentals – Student Expert
+ Postman API Fundamentals – Student Expert
 
-🟩 Cisco Networking Essentials
+ Cisco Networking Essentials
 
-☁️ Cloud Computing Fundamentals
+ Cloud Computing Fundamentals
 
-☁️ Journey To Cloud
+ Journey To Cloud
 
-☁️ Cloud Practitioner Essentials
+ Cloud Practitioner Essentials
 
 
 ---
 
-## 📈 What I'm Learning Now
+##  What I'm Learning Now
 
 Advanced TypeScript
 
@@ -135,7 +135,7 @@ Mobile app development
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 <p align="center" >
   <a href="mailto:joelgeorge6505@gmail.com"><img src="https://img.shields.io/badge/Email-joelgeorge6505@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/joel-george-37a090330"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
@@ -145,7 +145,7 @@ Mobile app development
 ---
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vx-tech-2024&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vx-tech-2024&layout=compact&theme=tokyonight" height="160"/>
